@@ -1,0 +1,1 @@
+RewriteRule ^registr$ registr.php [L]
